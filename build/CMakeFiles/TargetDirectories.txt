@@ -1,0 +1,3 @@
+C:/Users/tupik/ASCII-Tetris/build/CMakeFiles/tetris.dir
+C:/Users/tupik/ASCII-Tetris/build/CMakeFiles/edit_cache.dir
+C:/Users/tupik/ASCII-Tetris/build/CMakeFiles/rebuild_cache.dir

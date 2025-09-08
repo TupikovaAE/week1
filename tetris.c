@@ -1,10 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <tetris.h>
+#ifdef _WIN32
+#include "windows_termios.h"
+#else
 #include <termios.h>
+#endif
 #include <signal.h>
 #include <time.h>
 #include <fcntl.h>
+#ifdef _WIN32
+#include <conio.h>
+#include <windows.h>
+#endif
+
 
 struct tetris_level {
     int score;
