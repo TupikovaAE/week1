@@ -1,0 +1,3 @@
+C:/task2/build/CMakeFiles/TrigonometryProject.dir
+C:/task2/build/CMakeFiles/edit_cache.dir
+C:/task2/build/CMakeFiles/rebuild_cache.dir
